@@ -1,0 +1,14 @@
+# Core scanning library
+scapy==2.7.9
+
+# For optional HTTP probing and REST requests
+requests==2.31.0
+
+# For colored output (if you add later)
+colorama==0.4.6
+
+# For concurrency & progress bars (optional enhancements)
+tqdm==4.66.1
+
+# For parsing YAML or JSON configs in future
+PyYAML==6.0
