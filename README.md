@@ -60,3 +60,9 @@ sudo python3 CyfferScan.py 192.168.1.10 -s udp -v
 # Limit scan speed to 50 requests/sec
 sudo python3 CyfferScan.py 192.168.1.10 --rate 50
 
+Disclaimer
+
+⚠️ This project is for educational and research purposes only.
+Do not use it on networks or systems you do not own or without explicit permission.
+The author is not responsible for any misuse, damage, or legal consequences caused by this tool.
+
